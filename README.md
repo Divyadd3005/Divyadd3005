@@ -10,4 +10,4 @@ I like combining my knowledge and skills to contribute to innovative engineering
 ---
 
 #### ⚙️Technical skills :
-- 
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
