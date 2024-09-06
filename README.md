@@ -10,4 +10,7 @@ I like combining my knowledge and skills to contribute to innovative engineering
 ---
 
 #### ⚙️Technical skills :
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
+##### Programming language:
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/50/assembly.png" alt="assembly"/> 
+##### IDE I'm familiar with:
+<img width="50" height="50" src="https://img.icons8.com/color/50/arduino.png" alt="arduino"/>
