@@ -1,4 +1,4 @@
-![My GITHUB GIF BANNER](Github Banner.gif)
+![My GITHUB GIF BANNER](https://github.com/Divyadd3005/Divyadd3005/blob/main/Github%20Banner.gif)
 
 ## 🙋‍♀️Welcome Anonymous! :)
 #### I'm Divya Dharshini P A 
