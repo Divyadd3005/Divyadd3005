@@ -1,4 +1,4 @@
-![My GITHUB GIF BANNER]()
+![My GITHUB GIF BANNER](Github Banner.gif)
 
 ## 🙋‍♀️Welcome Anonymous! :)
 #### I'm Divya Dharshini P A 
