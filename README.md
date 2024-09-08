@@ -15,15 +15,9 @@ I like combining my knowledge and skills to contribute to innovative engineering
 ---
 
 ### ⚙️**TECHNICAL SKILLS:** 
-##### Programming language:
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/color/50/assembly.png" alt="assembly"/> 
-##### **IDE I'm familiar with:**
-<img width="50" height="50" src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" alt="Arduino" />&nbsp;&nbsp;&nbsp;&nbsp; 
-<img Width="50" height= "50" src="https://img3.downza.cn/download/202109/165031-6152d757b256f.jpg" alt="keiluvision4" /> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img Width="80" height= "50" src= "https://repository-images.githubusercontent.com/187005638/4d8c0b80-7bed-11e9-9338-fb7021245dd1" alt="STM32cubeIDE" /> &nbsp;&nbsp;
-<img width="60" height="60" src="https://img.apponic.com/28/3/ca609bab1385855220fd15dff809b2f0.png" alt="emu8086" />
-##### **Design Tools:**
-<img Width="55" height= "40" src= "https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="proteus"/>
+| Programming language:                 | IDEs I'm familiar with:                        | Design tools: |
+|---------------------------------------|------------------------------------------------|---------------|
+|<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>&nbsp;&nbsp;&nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>&nbsp;&nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://img.icons8.com/color/50/assembly.png" alt="assembly"/> &nbsp;&nbsp;&nbsp;&nbsp; | <img width="50" height="50" src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" alt="Arduino" />&nbsp;&nbsp;&nbsp;&nbsp; <img Width="50" height= "50" src="https://img3.downza.cn/download/202109/165031-6152d757b256f.jpg" alt="keiluvision4" /> &nbsp;&nbsp;&nbsp;&nbsp; <img Width="80" height= "50" src= "https://repository-images.githubusercontent.com/187005638/4d8c0b80-7bed-11e9-9338-fb7021245dd1" alt="STM32cubeIDE" /> &nbsp;&nbsp;&nbsp;&nbsp; <img width="60" height="60" src="https://img.apponic.com/28/3/ca609bab1385855220fd15dff809b2f0.png" alt="emu8086" /> | <img Width="55" height= "40" src= "https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="proteus"/> |
 
 ---
 
