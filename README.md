@@ -1,4 +1,4 @@
-![My GITHUB GIF BANNER](Purple Modern Gaming Youtube Banner.gif)
+![My GITHUB GIF BANNER]()
 
 ## 🙋‍♀️Welcome Anonymous! :)
 #### I'm Divya Dharshini P A 
