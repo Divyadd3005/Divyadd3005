@@ -1,4 +1,4 @@
-![My GITHUB GIF BANNER](https://www.canva.com/design/DAGQHBLoMeI/N84D3RSbKoHyATa_mZSB4g/watch?utm_content=DAGQHBLoMeI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![My GITHUB GIF BANNER]()
 
 ## 🙋‍♀️Welcome Anonymous! :)
 #### I'm Divya Dharshini P A 
