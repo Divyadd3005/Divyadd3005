@@ -14,9 +14,13 @@ I like combining my knowledge and skills to contribute to innovative engineering
 
 ---
 
+<img src="https://img.shields.io/badge/C-programming-blue" alt="C Language"/>
+
 ### ⚙️**TECHNICAL SKILLS:** 
 ##### Programming language:
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/color/50/assembly.png" alt="assembly"/> 
+<img src="https://img.shields.io/badge/C_Language-blue" alt="C Language"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/color/50/assembly.png" alt="assembly"/> 
 ##### **IDEs I've worked with:**
 <img width="30" height="30" src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" alt="Arduino" />&nbsp;&nbsp;&nbsp;&nbsp; 
 <img Width="30" height= "30" src="https://img3.downza.cn/download/202109/165031-6152d757b256f.jpg" alt="keiluvision4" /> &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -28,7 +32,7 @@ I like combining my knowledge and skills to contribute to innovative engineering
 ---
 
 ### **CERTIFICATIONS:**
-<img src="" alt="8086 certificate" style="width: 50%; height: 20%; object-fit: cover;">
+<img src="https://github.com/Divyadd3005/Divyadd3005/blob/main/8086_certificate.png" alt="8086 certificate" style="width:250px ; height: 100px;">
 
 
 
