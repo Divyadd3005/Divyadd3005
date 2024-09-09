@@ -28,7 +28,7 @@ I like combining my knowledge and skills to contribute to innovative engineering
 ---
 
 ### **CERTIFICATIONS:**
-
+<img src="" alt="8086 certificate" style="width: 50%; height: 20%; object-fit: cover;">
 
 
 
