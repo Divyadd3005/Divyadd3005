@@ -1,6 +1,4 @@
-<div style="position: relative; width: 100%; height: 0; padding-top: 30%; overflow: hidden;">
-  <img src="https://github.com/Divyadd3005/Divyadd3005/blob/main/Github%20Banner.gif" alt="GitHub Banner" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;">
-</div>
+<img src="https://github.com/Divyadd3005/Divyadd3005/blob/main/Github%20Banner.gif" alt="GitHub Banner" style="width: 100%; height: 150px object-fit: cover;">
 
 ## 🙋‍♀️Welcome Anonymous! :)
 #### I'm Divya Dharshini P A 
