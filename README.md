@@ -14,19 +14,32 @@ I like combining my knowledge and skills to contribute to innovative engineering
 
 ---
 
-[![c](https://img.shields.io/badge/LANGUAGE-blue.svg?style=plastic&logo=C)](https://image.shutterstock.com/image-vector/c-language-logo-simple-colours-260nw-2113921046.jpg/)
-[![python](https://img.shields.io/badge/Python- -black.svg?style=flat-square&logo=Python)](https://icons8.com/icon/13441/python)
+##### Programming language: IDEs I've worked with: 
+<a href="https://icons8.com/icon/13441/python">
+  <img src="https://img.shields.io/badge/python-yellow.svg?style=flat-square&logo=Python&logocolor=3776AB&color=FF9A00" alt="Python Badge" style="height: 25px;"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://icons8.com/icon/40670/c-programming">
+  <img src="https://img.shields.io/badge/Language-grey.svg?style=flat-square&logo=C&logocolor=0133AD&background-color=grey" alt="C Badge" style="height: 25px;"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://icons8.com/icon/gVK745a4Vaur/assembly">
+  <img src="https://img.shields.io/badge/asm-x86-green.svg?style=flat-square&logo=assembly&logocolor=green&background-color=grey" alt="assembly Badge" style="height: 25px;"/>
+</a>
+
+<a href="https://icons8.com/icon/Of4lZV2lwBQI/arduino">
+  <img src="https://img.shields.io/badge/Arduino-IDE-blue.svg?style=flat-square&logo=arduino&logocolor=00878F&background-color=grey" alt="Arduinoide Badge" style="height: 25px;"/>
+</a> 
+
+##### | Design Tools: |
 
 
-### ⚙️**TECHNICAL SKILLS:** 
-##### Programming language:
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="50" height="50" src="https://img.icons8.com/color/50/assembly.png" alt="assembly"/> 
-##### **IDEs I've worked with:**
+
 <img width="30" height="30" src="https://static-00.iconduck.com/assets.00/arduino-ide-icon-2048x2025-x4ims8sb.png" alt="Arduino" />&nbsp;&nbsp;&nbsp;&nbsp; 
 <img Width="30" height= "30" src="https://img3.downza.cn/download/202109/165031-6152d757b256f.jpg" alt="keiluvision4" /> &nbsp;&nbsp;&nbsp;&nbsp; 
 <img Width="60" height= "30" src= "https://repository-images.githubusercontent.com/187005638/4d8c0b80-7bed-11e9-9338-fb7021245dd1" alt="STM32cubeIDE" /> &nbsp;&nbsp;
 <img width="40" height="40" src="https://img.apponic.com/28/3/ca609bab1385855220fd15dff809b2f0.png" alt="emu8086" />
-##### **Design Tools:**
+
 <img Width="55" height= "40" src= "https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="proteus"/>
 
 ---
