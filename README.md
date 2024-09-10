@@ -33,12 +33,14 @@ I like combining my knowledge and skills to contribute to innovative engineering
 </a> 
 
 ##### Design Tools:
-<a href="https://github.com/Divyadd3005/Divyadd3005/blob/main/keil.svg">
-  <img src="https://img.shields.io/badge/Keilµvision-4-blue.svg?style=flat-square&logo=keil&background-color=008FC7" alt="Keiluvision4 Badge" style="height: 25px;"/>
+<a href="https://github.com/Divyadd3005/Divyadd3005/blob/main/armkeil.svg">
+  <img src="https://img.shields.io/badge/Keilµvision-4-blue.svg?style=flat-square&logo=armkeil&background-color=008FC7" alt="Keiluvision4 Badge" style="height: 25px;"/>
 </a>
-
-<img Width="30" height= "30" src="https://img3.downza.cn/download/202109/165031-6152d757b256f.jpg" alt="keiluvision4" /> &nbsp;&nbsp;&nbsp;&nbsp; 
-<img Width="60" height= "30" src= "https://repository-images.githubusercontent.com/187005638/4d8c0b80-7bed-11e9-9338-fb7021245dd1" alt="STM32cubeIDE" /> &nbsp;&nbsp;
+&nbsp;&nbsp; 
+<a href="">
+  <img src="https://img.shields.io/badge/STMcube-IDE-03234B.svg?style=flat-square&logocolor=03234B&logo=st&background-color=008FC7" alt="STMcubeIDE Badge" style="height: 25px;"/>
+</a>
+&nbsp;&nbsp;
 <img width="40" height="40" src="https://img.apponic.com/28/3/ca609bab1385855220fd15dff809b2f0.png" alt="emu8086" />
 
 <img Width="55" height= "40" src= "https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="proteus"/>
