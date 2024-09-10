@@ -14,7 +14,7 @@ I like combining my knowledge and skills to contribute to innovative engineering
 
 ---
 
-##### Programming language: IDEs I've worked with: 
+##### Programming language:  
 <a href="https://icons8.com/icon/13441/python">
   <img src="https://img.shields.io/badge/python-yellow.svg?style=flat-square&logo=Python&logocolor=3776AB&color=FF9A00" alt="Python Badge" style="height: 25px;"/>
 </a>
@@ -23,10 +23,11 @@ I like combining my knowledge and skills to contribute to innovative engineering
   <img src="https://img.shields.io/badge/Language-grey.svg?style=flat-square&logo=C&logocolor=0133AD&background-color=grey" alt="C Badge" style="height: 25px;"/>
 </a>
 &nbsp;&nbsp;
-<a href="">
-  <img src="https://img.shields.io/badge/asm-x86-green.svg?style=flat-square&logo=asm&logocolor=green&background-color=grey" alt="assembly Badge" style="height: 25px;"/>
+<a href="https://github.com/Divyadd3005/Divyadd3005/blob/main/assemblyscript.svg">
+  <img src="https://img.shields.io/badge/asm-x86-green.svg?style=flat-square&logo=assemblyscript&logocolor=green&background-color=grey" alt="assembly Badge" style="height: 25px;"/>
 </a>
 
+##### IDEs I've worked with: 
 <a href="https://icons8.com/icon/Of4lZV2lwBQI/arduino">
   <img src="https://img.shields.io/badge/Arduino-IDE-blue.svg?style=flat-square&logo=arduino&logocolor=00878F&background-color=grey" alt="Arduinoide Badge" style="height: 25px;"/>
 </a> 
