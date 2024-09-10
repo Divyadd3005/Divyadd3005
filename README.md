@@ -23,8 +23,8 @@ I like combining my knowledge and skills to contribute to innovative engineering
   <img src="https://img.shields.io/badge/Language-grey.svg?style=flat-square&logo=C&logocolor=0133AD&background-color=grey" alt="C Badge" style="height: 25px;"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://icons8.com/icon/gVK745a4Vaur/assembly">
-  <img src="https://img.shields.io/badge/asm-x86-green.svg?style=flat-square&logo=assembly&logocolor=green&background-color=grey" alt="assembly Badge" style="height: 25px;"/>
+<a href="">
+  <img src="https://img.shields.io/badge/asm-x86-green.svg?style=flat-square&logo=asm&logocolor=green&background-color=grey" alt="assembly Badge" style="height: 25px;"/>
 </a>
 
 <a href="https://icons8.com/icon/Of4lZV2lwBQI/arduino">
