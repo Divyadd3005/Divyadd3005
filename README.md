@@ -42,8 +42,8 @@
   <img src="https://img.shields.io/badge/STMcube-IDE-03234B.svg?style=flat-square&logocolor=03234B&logo=st&background-color=008FC7" alt="STMcubeIDE Badge" style="height: 20px;"/>
 </a>
 &nbsp;&nbsp;
-<a href="">
-  <img src="https://img.shields.io/badge/Proteus-1C79B3.svg?style=flat-square&logo=arduino&logocolor=1C79B3&background-color=grey" alt="Proteus Badge" style="height: 20px;"/>
+<a href="https://github.com/Divyadd3005/Divyadd3005/blob/main/proteus.svg">
+  <img src="https://img.shields.io/badge/Proteus-darkviolet.svg?style=flat-square&logo=Proteus&logocolor=1C79B3&background-color=grey" alt="Proteus Badge" style="height: 20px;"/>
 </a> 
 &nbsp;&nbsp;
 
