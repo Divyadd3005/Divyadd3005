@@ -3,7 +3,7 @@
 </p>
 
 > <img width= "30" height= "30" src= "https://img.icons8.com/?size=100&id=iDvZxjimOIfD&format=png&color=000000" alt="sign"/> <img height= "25" src= "https://img.shields.io/badge/Profile%20under%20construction-red" alt="Profile under construction"/> 
-<a href="www.linkedin.com/in/divya-dharshini-p-a-2b45b9266">
+<a href="https://www.linkedin.com/in/divya-dharshini-p-a-2b45b9266/">
   <img src="https://img.shields.io/badge/Linkedin-grey.svg?style=flat-square&logo=Linkedin&logocolor=00878F&background-color=grey" alt="Linkedin Badge" style="height: 20px;"/>
 </a> 
 
