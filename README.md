@@ -12,8 +12,9 @@
 
 #### 🕹️What am I currently doing?
 - 🔎 Actively looking for opportunities in the embedded domain. (Hardware/ Software Engineering)
+- <img width="18" height="18" src="https://img.icons8.com/?size=80&id=oaoTa6nA7qv3&format=png" alt="embedded processors" style="margin-top: -10px;" /> Starting an internship in embedded systems in October.
+- <img width="18" height="18" src="https://img.icons8.com/?size=80&id=oaoTa6nA7qv3&format=png" alt="embedded processors" style="margin-top: -10px;" /> Nearing completion of the Embedded Systems Course offered by Internshala.
 - <img width="15" height="15" src="https://img.icons8.com/?size=48&id=63208&format=png" alt="ubuntu" style="margin-top: -10px;" /> Getting more familiar with Linux Distros -> Ubuntu using Oracle VMBox.
-- <img width="18" height="18" src="https://img.icons8.com/?size=80&id=oaoTa6nA7qv3&format=png" alt="embedded processors" style="margin-top: -10px;" /> Enrolled in the Embedded Systems Course offered by Internshala.
 
 > *Address me as DD in short* :)
 ---
