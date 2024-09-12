@@ -1,4 +1,4 @@
-<img src="https://github.com/Divyadd3005/Divyadd3005/blob/main/download%20(1).gif" alt="GitHub Banner" style="width: 1000px; height: 400px; object-fit: cover;">
+<img src="" alt="GitHub Banner" style="float: left; width: 400px; height: 160px;">
 
 ## 🙋‍♀️Welcome Anonymous! :)
 #### I'm Divya Dharshini P A 
