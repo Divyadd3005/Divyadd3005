@@ -2,10 +2,7 @@
 <img src="https://github.com/Divyadd3005/Divyadd3005/blob/main/Github%20banner%202%20(1).gif" alt="GitHub Banner" style="display: block; margin-left: 0; width: 1200px; height: 350px;">
 </p>
 
-> <img width= "30" height= "30" src= "https://img.icons8.com/?size=100&id=iDvZxjimOIfD&format=png&color=000000" alt="sign"/> <img height= "25" src= "https://img.shields.io/badge/Profile%20under%20construction-red" alt="Profile under construction"/> 
-<a href="https://www.linkedin.com/in/divya-dharshini-p-a-2b45b9266/">
-  <img src="https://img.shields.io/badge/Linkedin-grey.svg?style=flat-square&logo=Linkedin&logocolor=00878F&background-color=grey" alt="Linkedin Badge" style="height: 20px;"/>
-</a> 
+> <img width= "30" height= "30" src= "https://img.icons8.com/?size=100&id=iDvZxjimOIfD&format=png&color=000000" alt="sign"/> <img height= "25" src= "https://img.shields.io/badge/Profile%20under%20construction-red" alt="Profile under construction"/> <a href="https://www.linkedin.com/in/divya-dharshini-p-a-2b45b9266/"> <img src="https://img.shields.io/badge/Linkedin-black.svg?style=flat-square&logo=Linkedin&logocolor=00878F&background-color=black" alt="Linkedin Badge" align="right" style="height: 20px;"/> </a> <a href="divyadharshini300503@gmail.com/"> <img src="https://img.shields.io/badge/Gmail-black.svg?style=flat-square&logo=gmail&logocolor=EA4335&background-color=black" alt="Gmail Badge" align="right" style="height: 20px;"/> </a> 
 
 <h1 align ="center"> 🙋‍♀️Welcome Anonymous! :) </h1>
   
