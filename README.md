@@ -49,6 +49,7 @@
 </a> 
 &nbsp;
 
+> <a href=""> <img src="https://img.shields.io/badge/Resume-black.svg?style=flat-square&logo=gmail&logocolor=EA4335&background-color=black" alt="Resume Badge" align="right" style="height: 20px;"/> </a> 
 ### ☑️Certifications:
 <img src="https://github.com/Divyadd3005/Divyadd3005/blob/main/8086_certificate.png" alt="8086 certificate" style="width:250px ; height: 160px;">
 
