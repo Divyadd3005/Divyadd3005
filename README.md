@@ -20,37 +20,37 @@
 
 ---
 
-#### Skills 
+### Skills 
 <a href="https://icons8.com/icon/40670/c-programming">
   <img src="https://img.shields.io/badge/Language-grey.svg?style=flat-square&logo=C&logocolor=0133AD&background-color=grey" alt="C Badge" style="height: 20px;"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://icons8.com/icon/13441/python">
   <img src="https://img.shields.io/badge/python-yellow.svg?style=flat-square&logo=Python&logocolor=3776AB&color=FF9A00" alt="Python Badge" style="height: 20px;"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/Divyadd3005/Divyadd3005/blob/main/assemblyscript.svg">
   <img src="https://img.shields.io/badge/asm-x86-green.svg?style=flat-square&logo=assemblyscript&logocolor=green&background-color=grey" alt="assembly Badge" style="height: 20px;"/>
 </a>
-
+&nbsp;
 <a href="https://icons8.com/icon/Of4lZV2lwBQI/arduino">
   <img src="https://img.shields.io/badge/Arduino-IDE-blue.svg?style=flat-square&logo=arduino&logocolor=00878F&background-color=grey" alt="Arduinoide Badge" style="height: 20px;"/>
 </a> 
-
+&nbsp;
 <a href="https://github.com/Divyadd3005/Divyadd3005/blob/main/armkeil.svg">
   <img src="https://img.shields.io/badge/Keilµvision-4-blue.svg?style=flat-square&logo=armkeil&background-color=008FC7" alt="Keiluvision4 Badge" style="height: 20px;"/>
 </a>
-&nbsp;&nbsp; 
+&nbsp;
 <a href="https://github.com/Divyadd3005/Divyadd3005/blob/main/stmicroelectronics.svg">
-  <img src="https://img.shields.io/badge/STMicroelectronics-IDE-03234B.svg?style=flat-square&logocolor=03234B&logo=st&background-color=008FC7" alt="STMcubeIDE Badge" style="height: 20px;"/>
+  <img src="https://img.shields.io/badge/STMicroelectronics-IDE-FDB511.svg?style=flat-square&logo=stmicroelectronics&logocolor=03234B&background-color=FDB511" alt="STMcubeIDE Badge" style="height: 20px;"/>
 </a>
-&nbsp;&nbsp;
-<a href="">
-  <img src="https://img.shields.io/badge/Proteus-02303A.svg?style=flat-square&logo=Proteus&logocolor=1C79B3&background-color=02303A" alt="Proteus Badge" style="height: 20px;"/>
+&nbsp;
+<a href="https://github.com/Divyadd3005/Divyadd3005/blob/main/proteus-color.svg">
+  <img src="https://img.shields.io/badge/Proteus-8-02303A.svg?style=flat-square&logo=Proteus&logocolor=1C79B3&background-color=02303A" alt="Proteus Badge" style="height: 20px;"/>
 </a> 
-&nbsp;&nbsp;
+&nbsp;
 
-### **CERTIFICATIONS:**
+### **Certifications:**
 <img src="https://github.com/Divyadd3005/Divyadd3005/blob/main/8086_certificate.png" alt="8086 certificate" style="width:250px ; height: 160px;">
 
 
