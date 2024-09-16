@@ -48,11 +48,3 @@
   <img src="https://img.shields.io/badge/Proteus-8-02303A.svg?style=flat-square&logo=Proteus&logocolor=1C79B3&background-color=02303A" alt="Proteus Badge" style="height: 20px;"/>
 </a> 
 &nbsp;
-
-### ☑️Certifications:
-<img src="https://github.com/Divyadd3005/Divyadd3005/blob/main/8086_certificate.png" alt="8086 certificate" style="width:250px ; height: 160px;">
-
-
-
-
-
