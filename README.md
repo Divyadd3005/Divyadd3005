@@ -17,7 +17,7 @@
 - <img width="15" height="15" src="https://img.icons8.com/?size=48&id=63208&format=png" alt="ubuntu" style="margin-top: -10px;" /> Getting more familiar with Linux Distros -> Ubuntu using Oracle VMBox.
 
 > *Address me as DD in short* :)
----
+
 
 ### ☑️Skills:
 <a href="https://icons8.com/icon/40670/c-programming">
@@ -48,3 +48,4 @@
   <img src="https://img.shields.io/badge/Proteus-8-02303A.svg?style=flat-square&logo=Proteus&logocolor=1C79B3&background-color=02303A" alt="Proteus Badge" style="height: 20px;"/>
 </a> 
 &nbsp;
+
