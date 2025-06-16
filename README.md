@@ -34,5 +34,4 @@
 
 
 ### ☑ About Me
-- **Firmware Engineer - 1** at WheelsEye Technologies Pvt. Ltd, India
-- **ECE' 2024**
+- currently working with STM32WBA55xx BluetoothLE stack
