@@ -33,5 +33,5 @@
 </div>
 
 
-### ☑ About Me
-- currently working with STM32WBA55xx BluetoothLE stack
+<### ☑ About Me
+- currently working with STM32WBA55xx BluetoothLE stack>
