@@ -44,13 +44,34 @@
 </div>
 &nbsp;
 
-<!-- Git stats -->
+<!-- Git stats 
 ![Divyadd3005's Stats](https://github-readme-stats.vercel.app/api?username=Divyadd3005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Divyadd3005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divyadd3005&theme=tokyonight&hide_border=true)
+![Divyadd3005's Github_snake](https://github.com/Divyadd3005/Divyadd3005/blob/main/github-user-contribution.svg)
+-->
 <!-- 
 Not loading: future
 ![Contribution Snake](https://raw.githubusercontent.com/Divyadd3005/Divyadd3005/output/github-contribution-grid-snake.svg)
 ![Divyadd3005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyadd3005&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+
+<!-- GitHub Stats and Streak - side by side (same height/width) -->
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Divyadd3005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="47%" height="500%"/>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyadd3005&theme=tokyonight&hide_border=true" width="47%" height="1000%"/>
+</div>
+
+<!-- Snake SVG (75%) + Top Languages (25%) - same height -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/Divyadd3005/Divyadd3005/blob/main/github-user-contribution.svg" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyadd3005&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 <!-- Cute Cat + Animal ASCII Together -->
