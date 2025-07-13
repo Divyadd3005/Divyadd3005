@@ -15,35 +15,43 @@
 
 </pre>
 
-<!-- Animated GIF on Right -->
+<!-- Socials and others -->
+<div>
+  <a href="mailto:divyadharshini300503@gmail.com">
+    <img align="right" src="https://img.shields.io/badge/Gmail-black.svg?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/divya-dharshini-p-a-2b45b9266/">
+    <img align="right" src="https://img.shields.io/badge/LinkedIn-black.svg?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn Badge" />
+  </a>
+</div>
 
+### Languages, Tools, and IDEs I work with
 <!-- Languages Section -->
-### Languages  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 
 <!-- Tools Section -->
-### Tools  
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
   <a href="https://icons8.com/icon/Of4lZV2lwBQI/arduino">
     <img src="https://img.shields.io/badge/Arduino%20IDE-blue.svg?style=flat-square&logo=arduino&logoColor=00878F" alt="Arduino IDE Badge" />
-  </a>
+  </a>    
   <a href="https://github.com/Divyadd3005/Divyadd3005/blob/main/stmicroelectronics.svg">
     <img src="https://img.shields.io/badge/STM32CubeIDE-FDB511.svg?style=flat-square&logo=stmicroelectronics&logoColor=03234B" alt="STM32CubeIDE Badge" />
   </a>
   <a href="https://github.com/Divyadd3005/Divyadd3005/blob/main/proteus-color.svg">
     <img src="https://img.shields.io/badge/Proteus%208-02303A.svg?style=flat-square&logo=proteus&logoColor=1C79B3" alt="Proteus Badge" />
   </a>
-  <a href="mailto:divyadharshini300503@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-black.svg?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/divya-dharshini-p-a-2b45b9266/">
-    <img src="https://img.shields.io/badge/LinkedIn-black.svg?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://github.com/Divyadd3005/Divyadd3005/blob/main/Resume%20Divya_Dharshini.pdf">
-    <img src="https://img.shields.io/badge/Resume-black.svg?style=flat-square&logo=readme&logoColor=white" alt="Resume Badge" />
-  </a>
 </div>
+&nbsp;
+
+<!-- Git stats -->
+![Divyadd3005's Stats](https://github-readme-stats.vercel.app/api?username=Divyadd3005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Divyadd3005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divyadd3005&theme=tokyonight&hide_border=true)
+<!-- 
+Not loading: future
+![Contribution Snake](https://raw.githubusercontent.com/Divyadd3005/Divyadd3005/output/github-contribution-grid-snake.svg)
+![Divyadd3005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyadd3005&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 
 <!-- Cute Cat + Animal ASCII Together -->
 <pre>
