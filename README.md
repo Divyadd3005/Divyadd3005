@@ -1,4 +1,4 @@
-<h2 align="center"> Heyeah! I'm Divya Dharshini. </h2>
+<h2 align="center"> Heyeah Mortals! </h2>
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; padding: 8px; background-color: #1e1e1e; border-radius: 8px;">
 
   <!-- Left: Language & Tools -->
@@ -33,5 +33,5 @@
 </div>
 
 
-<!### ☑ About Me>
-<!- currently working with STM32WBA55xx BluetoothLE stack>
+<!-- ### ☑ About Me -->
+<!-- - currently working with STM32WBA55xx BluetoothLE stack -->
